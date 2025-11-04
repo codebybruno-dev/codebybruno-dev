@@ -10,7 +10,7 @@
 I focus on **HTML, CSS, and JavaScript** to build fast and elegant solutions for businesses and personal brands.  
 
 - 🌎 Based in Brazil, working remotely with clients worldwide  
-- 🔥 Available for freelance work via [Fiverr](https://www.fiverr.com/)  
+- 🔥 Available for freelance work via [Fiverr](http://www.fiverr.com/s/kLK6QBL)  
 - 📚 Constantly learning new front-end technologies  
 - 🎯 Goal: Help small brands go online with beautiful websites  
 
